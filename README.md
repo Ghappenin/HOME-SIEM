@@ -6,22 +6,25 @@ Project consists of simple walk through steps on how to set up a home lab for El
 <br />
 
 
-<h2>System and Utilities Used </h2>
+<h2>Operating System Used<h2>
 
-- <b>MacOS Monterey Version 12.7.4</b> 
+- <b>MacOS Monterey Version 12.7.4</b>
+
+<h2>Downloads<h2>
+ 
 - <b>VirtualBox 7.0.14</b>
 - <b>Kali Linux VM</b>
-
+- <b>Elastic account/b>
 
 <h2>Project walk-through:</h2>
 
 <p align="center">
 Download VirtualBox: <br/>
-<img src="https://i.imgur.com/62TgaWL.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/TrQnZkK.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Select the disk:  <br/>
-<img src="https://i.imgur.com/tcTyMUE.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Download Kali Linux  <br/>
+<img src="https://i.imgur.com/M6gccC7.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 Enter the number of passes: <br/>
