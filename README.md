@@ -55,12 +55,12 @@ Create Security Events by using "Nmap" (“nmap -sS <ip address>”, “nmap -sT
 <img src="https://i.imgur.com/zCVJzfU.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Once message “Elastic Agent has been successfully installed.” It will automatically start collecting and forwarding logs to your Elastic SIEM  <br/>
-<img src="https://i.imgur.com/AeZkvFQ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Navigate to "Logs" in Elastic to view logs fron Kali VM  <br/>
+<img src="https://i.imgur.com/aj1TnOD.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Once message “Elastic Agent has been successfully installed.” It will automatically start collecting and forwarding logs to your Elastic SIEM  <br/>
-<img src="https://i.imgur.com/AeZkvFQ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Filter the results by using "Search"  <br/>
+<img src="https://i.imgur.com/byjLPJn.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 Once message “Elastic Agent has been successfully installed.” It will automatically start collecting and forwarding logs to your Elastic SIEM  <br/>
