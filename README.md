@@ -35,12 +35,12 @@ With "Start" launch Kali Box:  <br/>
 <img src="https://i.imgur.com/E0s7KwZ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Wait for process to complete (may take some time):  <br/>
-<img src="https://i.imgur.com/JL945Ga.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Log into Elastic SIEM -> Navigate to 'Integrations' -> Download "Elastic Defend":  <br/>
+<img src="https://i.imgur.com/BXmTwTc.png)height=" height=80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Sanitization complete:  <br/>
-<img src="https://i.imgur.com/K71yaM2.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Paste command into Kali Terminal:  <br/>
+<img src="https://i.imgur.com/NyjiXmG.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 Observe the wiped disk:  <br/>
