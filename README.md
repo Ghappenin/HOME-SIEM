@@ -39,17 +39,33 @@ Log into Elastic SIEM -> Navigate to 'Integrations' -> Download "Elastic Defend"
 <img src="https://i.imgur.com/BXmTwTc.png)height=" height=80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Paste command into Kali Terminal:  <br/>
+Paste command into Kali Terminal -> "ENTER" for install:  <br/>
 <img src="https://i.imgur.com/NyjiXmG.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Observe the wiped disk:  <br/>
+Once message “Elastic Agent has been successfully installed.” It will automatically start collecting and forwarding logs to your Elastic SIEM  <br/>
+<img src="https://i.imgur.com/AW19rNt.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+Verify that the agent has been installed correctly by running this command: sudo systemctl status elastic-agent.service  <br/>
+<img src="https://i.imgur.com/BSbRH5o.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+Create Security Events by using "Nmap" (“nmap -sS <ip address>”, “nmap -sT <ip address>”, “nmap -p- <ip address>”etc..) <br/>
+<img src="https://i.imgur.com/zCVJzfU.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+Once message “Elastic Agent has been successfully installed.” It will automatically start collecting and forwarding logs to your Elastic SIEM  <br/>
 <img src="https://i.imgur.com/AeZkvFQ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-
-<!--
- ```diff
-- text in red
+<br />
+<br />
+Once message “Elastic Agent has been successfully installed.” It will automatically start collecting and forwarding logs to your Elastic SIEM  <br/>
+<img src="https://i.imgur.com/AeZkvFQ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+Once message “Elastic Agent has been successfully installed.” It will automatically start collecting and forwarding logs to your Elastic SIEM  <br/>
+<img src="https://i.imgur.com/AeZkvFQ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+ 
 + text in green
 ! text in orange
 # text in gray
