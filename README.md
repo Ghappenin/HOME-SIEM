@@ -12,7 +12,7 @@ Project consists of simple walk through steps on how to set up a home lab for El
 
 <h2>Downloads<h2>
  
-- <b>VirtualBox 7.0.14</b>
+- <b>VirtualBox 7.0.14[https://www.virtualbox.org/wiki/Downloads]</b>
 - <b>Kali Linux VM</b>
 - <b>Elastic account</b>
 
