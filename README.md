@@ -20,11 +20,11 @@ Project consists of simple walk through steps on how to set up a home lab for El
 
 <p align="center">
 Download VirtualBox: <br/>
-<img src="https://i.imgur.com/TrQnZkK.png" height="80%" width="80%" />
+<img src="https://i.imgur.com/LnopEUH.png" height="80%" width="80%" />
 <br />
 <br />
 Download Kali Linux: <br/>
-<img src="https://i.imgur.com/M6gccC7.png" height="80%" width="80%" />
+<img src="https://i.imgur.com/VwZusBy.png" height="80%" width="80%" />
 <br />
 <br />
 Using '+' add Kali Linux download to VirtualBox: <br/>
@@ -36,7 +36,7 @@ With "Start" launch Kali Box:  <br/>
 <br />
 <br />
 Log into Elastic SIEM -> Navigate to 'Integrations' -> Download "Elastic Defend":  <br/>
-<img src="https://i.imgur.com/BXmTwTc.png)height=" height=80%" width="80%" />
+<img src="https://i.imgur.com/0wRBzQs.png" height=" height=80%" width="80%" />
 <br />
 <br />
 Paste command into Kali Terminal -> "ENTER" for install:  <br/>
@@ -77,7 +77,7 @@ Click on the “Save” button to save the visualization and then complete the r
 <br />
 <br /> 
 Set an "ALERT" -> Click on the menu icon on the top-left, then under “Security,” click on “Alerts.” <br>
-<img src="https://i.imgur.com/FC6LSnF.png" height="80%" width="80%" />" 
+<img src="https://i.imgur.com/26dwSkO.png" height="80%" width="80%" />" 
 <br />
 <br /> 
 Click on the “Create new rule” button at the top right <br>
