@@ -28,11 +28,11 @@ Download Kali Linux: <br/>
 <br />
 <br />
 Using '+' add Kali Linux download to VirtualBox: <br/>
-<img src="https://i.imgur.com/eoJHcJ9.png" height="80%" width="80%" />
+<img src="https://i.imgur.com/aB6EiOe.png" height="80%" width="80%" />
 <br />
 <br />
 With "Start" launch Kali Box:  <br/>
-<img src="https://i.imgur.com/E0s7KwZ.png" height="80%" width="80%" />
+<img src="https://i.imgur.com/Tf6FXpx.png" height="80%" width="80%" />
 <br />
 <br />
 Log into Elastic SIEM -> Navigate to 'Integrations' -> Download "Elastic Defend":  <br/>
@@ -40,31 +40,31 @@ Log into Elastic SIEM -> Navigate to 'Integrations' -> Download "Elastic Defend"
 <br />
 <br />
 Paste command into Kali Terminal -> "ENTER" for install:  <br/>
-<img src="https://i.imgur.com/NyjiXmG.png" height="80%" width="80%" />
+<img src="https://i.imgur.com/us89Fkl.png" height="80%" width="80%" />
 <br />
 <br />
 Once message “Elastic Agent has been successfully installed.” It will automatically start collecting and forwarding logs to your Elastic SIEM  <br/>
-<img src="https://i.imgur.com/AW19rNt.png" height="80%" width="80%" />
+<img src="https://i.imgur.com/W90f2mW.png" height="80%" width="80%" />
 <br />
 <br />
 Verify that the agent has been installed correctly by running this command: sudo systemctl status elastic-agent.service  <br/>
-<img src="https://i.imgur.com/BSbRH5o.png" height="80%" width="80%" />
+<img src="https://i.imgur.com/tEuL0g9.png" height="80%" width="80%" />
 <br />
 <br />
 Create Security Events by using "Nmap" (“nmap -sS <ip address>”, “nmap -sT <ip address>”, “nmap -p- <ip address>”etc..) <br/>
-<img src="https://i.imgur.com/zCVJzfU.png" height="80%" width="80%" />
+<img src="https://i.imgur.com/O4cYNhL.png" height="80%" width="80%" />
 <br />
 <br />
 Navigate to "Logs" in Elastic to view logs fron Kali VM  <br/>
-<img src="https://i.imgur.com/aj1TnOD.png" height="80%" width="80%" />
+<img src="https://i.imgur.com/fxXE1CQ.png" height="80%" width="80%" />
 <br />
 <br />
 Filter the results by using "Search"  <br/>
-<img src="https://i.imgur.com/byjLPJn.png" height="80%" width="80%" />
+<img src="https://i.imgur.com/r9U0YyH.png" height="80%" width="80%" />
 <br />
 <br />
 Click on the menu icon on the top-left, then under “Analytics,” click on “Dashboards.” -> Create a Dashboard to Visualize the Events  <br/>
-<img src="https://i.imgur.com/BPXi94a.png" height="80%" width="80%" />
+<img src="https://i.imgur.com/o2NOEW1.png" height="80%" width="80%" />
 <br />
 <br />
 Click on the “Create Visualization” button to add a new visualization to the dashboard <br/>
@@ -73,7 +73,7 @@ In the “Metrics” section, select “Count” as the vertical field type and 
 <br />
 <br /> 
 Click on the “Save” button to save the visualization and then complete the rest of the settings. <br/>
-<img src="https://i.imgur.com/3CYbLef.png" height="80%" width="80%" />
+<img src="https://i.imgur.com/E2kBXla.png" height="80%" width="80%" />
 <br />
 <br /> 
 Set an "ALERT" -> Click on the menu icon on the top-left, then under “Security,” click on “Alerts.” <br>
